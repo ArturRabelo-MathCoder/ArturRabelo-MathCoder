@@ -5,13 +5,6 @@
 Me chamo Artur Reinaldo Teles Rabelo, tenho 21 anos e sou natural de Sergipe/Brazil. Concluí o ensino médio no SESI/CEFEM, com o curso técnico em Redes de computadores. Atualmente, estou cursando Matemática Aplicada e Computacional na Universidade Federal de Sergipe. Sou amante das artes e da matemática de todas as coisas.
 
 <p align="left">
-    </a> 
-    <a href="https://github.com/ArturRabelo-MathCoder?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ArturRabelo-MathCoder=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
     </a>
     <a href="https://github.com/ArturRabelo-MathCoder?tab=followers">
         <img 
